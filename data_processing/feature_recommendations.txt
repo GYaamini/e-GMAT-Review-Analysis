@@ -1,0 +1,26 @@
+1748336846.939343
+Here are the analysis results:
+
+**1. Top most mentioned issues and flaws that should be addressed by the platform and Top features that are bothering the users by blocking smooth learning experience:**
+
+* Typos on verbal questions in GMAT Live Prep
+* Difficulty level of questions in Word Problems section of GMAT Live Prep
+* Error log process in Online 360
+* Interface improvements in Mentorship
+* Quant section needs re-evaluation in Online 360
+* Estimated course durations are not accurate in Online 360
+* Study plan set for users is far from realistic in Online 360
+* Sigma-X mock tests are too challenging and time-intensive in Online Focused
+* Lack of concise error-tracking mechanism in Online 360
+* Need for more interactive elements in Online Focused
+* Quant questions need to be better and resemble real GMAT in Online Focused
+
+**2. Top 2-3 courses which resulted in these shortcomings:**
+
+* Online 360 (mentioned 17 times)
+* Online Focused (mentioned 13 times)
+* GMAT Live Prep (mentioned 2 times)
+
+**3. Overall sentiment trend:**
+
+The overall sentiment trend is that users are generally satisfied with the platform, but there are some areas that need improvement. The platform is praised for its personalized study plans, extensive video lessons, and AI-powered diagnostic tools. However, users have raised concerns about the difficulty level of questions, error log process, and interface improvements. Despite these issues, users have reported significant improvements in their GMAT scores and have praised the platform's data-driven approach and mentor support system.
